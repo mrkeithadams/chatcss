@@ -354,8 +354,7 @@ div.message-container-agent div.message-container{
 }
 div.message-container-agent div.message-container a{
     font-weight:normal !important;
-    /* color:#bf0132 !important */
-    color:green !important
+    color:#bf0132 !important
 }
 div.message-container-client div.message-container{
     background-color:#bf0132 !important;
